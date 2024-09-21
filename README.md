@@ -1,6 +1,6 @@
 演示视频：https://github.com/swvincent8498/ka-whatsapp/raw/b9c8813eafe06e632a322fae67f1667e7b99d3b2/9-15.mp4
 
-# 养号辅助工具安装部署教程
+# WhatsApp养号辅助工具安装部署教程
 
 ## 1.环境变量约定
 ![image](https://github.com/user-attachments/assets/2d54614d-a113-4cf9-81ae-667ce17976b4)
