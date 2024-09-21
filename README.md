@@ -1,3 +1,4 @@
+# 软件不开源，觉得适用，自行部署使用
 演示视频：https://github.com/swvincent8498/ka-whatsapp/raw/b9c8813eafe06e632a322fae67f1667e7b99d3b2/9-15.mp4
 
 # WhatsApp养号辅助工具安装部署教程
@@ -70,15 +71,14 @@ MYSQL_PWD=123456
 
 1、编辑“账号模板.xlsx”账号信息进行导入，导入时会覆盖原有账号信息
 
-```
+2、演示
+![image](https://github.com/user-attachments/assets/9547d88f-53b3-4e38-a5af-d1cd6e0fa328)
 
+![image](https://github.com/user-attachments/assets/8712adf9-d938-4e07-ac58-05194d5e0b92)
 
+![image](https://github.com/user-attachments/assets/6c2db341-6030-471c-b27b-f8504b6fb6a5)
 
-
-
-```
-
-
+![image](https://github.com/user-attachments/assets/ef2f46d7-f366-4c92-9a7e-81bbae328b19)
 
 
 
