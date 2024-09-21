@@ -67,12 +67,14 @@ MYSQL_PWD=123456
 ![image](https://github.com/user-attachments/assets/33469179-abfc-49b2-88f0-668f375a83b6)
 
 1、编辑“账号模板.xlsx”账号信息进行导入，导入时会覆盖原有账号信息
+
 2、演示视频
 <video width="320" height="240" controls> 
-  <source src="[https://www.runoob.com/try/demo_source/movie.mp4](https://github.com/swvincent8498/ka-whatsapp/blob/86702818d1d0084ce9c8df032b38760ab0d8556e/9-15.mp4)" type="video/mp4"> 
+  <source src="https://github.com/swvincent8498/ka-whatsapp/blob/86702818d1d0084ce9c8df032b38760ab0d8556e/9-15.mp4" type="video/mp4"> 
 </video> 
-`
 
 
 
-`
+
+
+
