@@ -16,17 +16,21 @@ Windows系统，有4核8线程，16G内存即可，更高配置更佳
 192.168.71.2
 会开启6101端口供给chrome浏览器实例连接
 - 1.4.MariaDB数据库信息
+```
 MYSQL_DB_NAME=chat
 MYSQL_IP=192.168.71.4
 MYSQL_PORT=3301
 MYSQL_USER=root
 MYSQL_PWD=123456
+```
 ## 2.docker服务器
 ### 2.1.桥接网络安装
 输入以下命令行：
+```
 命令1：docker network create -d macvlan --subnet 192.168.71.0/24 --gateway 192.168.71.1 -o parent=eth0 mymacvlan
 命令2：ip link set eth0 promisc on
-Eth0根据实际情况更改
+#eth0根据实际情况更改
+```
 ### 2.2.Chrome浏览器docker镜像加载
 - 1、将“whatsapp_chrome_v0.3.rar”文件解压出来“whatsapp_chrome_v0.3.tar”，ftp到/opt/whatsapp_chrome_v0.3.tar
 - 2、命令：docker load -i /opt/whatsapp_chrome_v0.3.tar
