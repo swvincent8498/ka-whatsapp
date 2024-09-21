@@ -1,3 +1,5 @@
+演示视频：https://github.com/swvincent8498/ka-whatsapp/blob/86702818d1d0084ce9c8df032b38760ab0d8556e/9-15.mp4
+
 # 养号辅助工具安装部署教程
 
 ## 1.环境变量约定
@@ -68,10 +70,8 @@ MYSQL_PWD=123456
 
 1、编辑“账号模板.xlsx”账号信息进行导入，导入时会覆盖原有账号信息
 
-2、演示视频
-<video width="320" height="240" controls> 
-  <source src="https://github.com/swvincent8498/ka-whatsapp/blob/86702818d1d0084ce9c8df032b38760ab0d8556e/9-15.mp4" type="video/mp4"> 
-</video> 
+
+
 
 
 
