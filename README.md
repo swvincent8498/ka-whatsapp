@@ -1,4 +1,4 @@
-演示视频：https://github.com/swvincent8498/ka-whatsapp/blob/86702818d1d0084ce9c8df032b38760ab0d8556e/9-15.mp4
+演示视频：https://github.com/swvincent8498/ka-whatsapp/raw/b9c8813eafe06e632a322fae67f1667e7b99d3b2/9-15.mp4
 
 # 养号辅助工具安装部署教程
 
@@ -69,6 +69,20 @@ MYSQL_PWD=123456
 ![image](https://github.com/user-attachments/assets/33469179-abfc-49b2-88f0-668f375a83b6)
 
 1、编辑“账号模板.xlsx”账号信息进行导入，导入时会覆盖原有账号信息
+
+```
+
+
+
+
+
+```
+
+
+
+
+
+
 
 
 
