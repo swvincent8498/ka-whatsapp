@@ -1,6 +1,8 @@
 # 软件不开源，觉得适用，自行部署使用
 演示视频：https://github.com/swvincent8498/ka-whatsapp/raw/b9c8813eafe06e632a322fae67f1667e7b99d3b2/9-15.mp4
 
+
+![image](https://github.com/swvincent8498/ka-whatsapp/blob/c03a71f4a904e60b48220892f64e3ea65af21c56/demo.gif?raw=true)
 # WhatsApp养号辅助工具安装部署教程
 
 ## 1.环境变量约定
